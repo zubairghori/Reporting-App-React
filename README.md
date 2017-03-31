@@ -2,14 +2,12 @@
 Crime Reporting System for ReactJS Marathon -- Project Level 1
 
 Firebase hosted URL:
-https://crime-reporting-system-829f2.firebaseapp.com/
+https://reporting-app-e2e2d.firebaseapp.com/
 
 
-user: shan@gmail.com
+user: u@c.com
+pass: 123
 
-pass: 123456
 
-
-admin: admin@gmail.com
-
-pass: 123456
+admin: a@a.com
+pass: 123
